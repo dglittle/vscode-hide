@@ -1,0 +1,16 @@
+{
+  "name": "vscode-hide",
+  "displayName": "Hide Text",
+  "description": "Hide sensitive text with hide::XXXXXX syntax",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js"
+}
